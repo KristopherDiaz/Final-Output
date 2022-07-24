@@ -1,0 +1,52 @@
+h1{
+    border: 2px solid rgb(23, 151, 12);
+    border-radius: 5px;
+    font-size: 60px;
+    font-family: 	Courier New;
+    background-color: rgb(223, 238, 13);
+    text-align: center;
+    color:rgb(0, 160, 21);
+    text-shadow: 1px 2px 3px rgb(17, 2, 2);
+    
+    
+}
+
+h1:hover{
+    
+    background-color: rgb(181, 231, 231);
+
+}
+
+img{
+    border: 10px solid lightcyan;
+    border-radius: 5px;
+}
+  
+  p {
+      
+    font-family: Courier New;
+    text-align: center;
+    font-size: 26px;
+    background-color: rgba(238, 255, 0, 0.692);
+    color:rgb(54, 0, 90);
+    border-style: solid;
+    border-color: rgb(0, 109, 15);
+  }
+  form {
+  
+    margin-left: 30%;
+    margin-right:30%;
+    width: 60%;
+    font-size: 30px;
+
+}
+a{
+    text-align: right;
+}
+input {
+    font-size: 20px;
+}
+
+
+
+ 

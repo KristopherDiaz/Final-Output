@@ -1,0 +1,51 @@
+h1{
+    font-size: 60px;
+    font-family: Courier New;
+    background-color: rgba(251, 255, 0, 0.829);
+    text-align: center;
+    color:rgb(49, 94, 177);
+    border: 5px solid rgb(0, 39, 31);
+    text-shadow: 2px 4px 6px rgb(17, 2, 2);
+}
+h1:hover{
+    background-color: rgb(101, 214, 162);
+}
+
+button{
+    
+    color: rgb(0, 0, 0);
+    padding: 6px 9px;
+    
+}
+.column {
+    background-color: rgba(212, 93, 202, 0.815);
+    float: left;
+    width: 21%;
+    padding: 40px;
+    margin-left: 80px;
+  }
+  
+  .row::after {
+
+    clear: both;
+    display: table;
+ 
+  }
+  .row::after {
+ 
+    clear: both;
+    display: table;
+  }
+  a {
+    margin-right:100%;
+    width: 60%;
+  }
+  p {
+      font-size: 150%;
+  }
+  input {
+      font-size: 150%;
+      
+  }
+
+ 

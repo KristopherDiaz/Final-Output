@@ -1,0 +1,31 @@
+h1{
+    font-size: 60px;
+    font-family: Courier New;
+    background-color: rgba(251, 255, 0, 0.829);
+    text-align: center;
+    color:rgb(49, 94, 177);
+    border: 5px solid rgb(0, 39, 31);
+    text-shadow: 2px 4px 6px rgb(17, 2, 2);
+    
+}
+h1:hover{
+    background-color: rgb(101, 214, 162);
+
+}
+img{
+    border: 5px solid lightcyan;
+    border-radius: 10px;
+}
+a 
+{ 
+    font-size: 20px;
+    text-align: center;
+}
+
+div {
+    text-align: justify;
+}
+a{
+    font-size: 200%;
+
+}
